@@ -22,15 +22,15 @@
 
 ### Login Page
 
-![Login Page](https://github.com/bluohazard/gadingkasri-polyclinic/blob/master/img/login.png)
+![Login Page](https://github.com/irfanefc11/Sistem-Informasi-Klinik/blob/master/img/login.png)
 
 ### Main Page
 
-![Main Page](https://github.com/bluohazard/gadingkasri-polyclinic/blob/master/img/mainpage.png)
+![Main Page](https://github.com/irfanefc11/Sistem-Informasi-Klinik/blob/master/img/mainpage.png)
 
 ### Example Form Page
 
-![Example Form Page](https://github.com/bluohazard/gadingkasri-polyclinic/blob/master/img/form.png)
+![Example Form Page](https://github.com/irfanefc11/Sistem-Informasi-Klinik/blob/master/img/form.png)
 
 ## Built With
 * [PHP](https://www.php.net/)
@@ -41,7 +41,7 @@
 
 1. Clone the repo
 ```sh
-git clone https://github.com/bluohazard/gadingkasri-polyclinic.git
+git clone https://github.com/irfanefc11/Sistem-Informasi-Klinik.git
 ```
 <p align="center">
   <img src="gif/git-clone.gif" alt="Git Clone">
